@@ -1,0 +1,7 @@
+Package: cashflowr
+Title: Tools for visualizing discounted cashflows in R
+Description: 
+Version: 0.1
+Author: David Varodayan <varodayan@gmail.com>
+Maintainer: David Varodayan <varodayan@gmail.com>
+License: MIT
